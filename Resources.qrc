@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/point.png</file>
+        <file>images/puzzle.png</file>
+        <file>images/cyan.png</file>
+        <file>images/red.png</file>
+        <file>images/violet.png</file>
+        <file>images/white.png</file>
+        <file>images/Pixmap.png</file>
+        <file>images/Pixmap_defoult.png</file>
+    </qresource>
+</RCC>
