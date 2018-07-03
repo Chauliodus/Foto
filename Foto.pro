@@ -15,12 +15,12 @@ TEMPLATE = app
 SOURCES += main.cpp\
         mainwindow.cpp \
     pyr_window.cpp \
-    selectpictureaction.cpp
+    filedata.cpp
 
 HEADERS  += \
     mainwindow.h \
     pyr_window.h \
-    selectpictureaction.h
+    filedata.h
 
 FORMS    += mainwindow.ui \
     Pyr_window.ui
